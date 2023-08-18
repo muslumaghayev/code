@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hello World! I'm Muslum </h1>
 <h3 align="center">Front-end Developer</h3>
 <p>🌐 As a newcomer to the web development universe, I'm embracing the journey of turning ideas into reality using HTML, CSS, and JavaScript. Every line of code I write is a step toward honing my skills and creating meaningful online experiences.<br/> 💡 I believe that every bug encountered is an opportunity to learn, and every challenge is a chance to grow. With a curious mind and a determination to explore, I'm excited to unravel the mysteries of responsive design, user-friendly interfaces, and interactive functionalities.</p>
-- 📫 How to reach me **aze.muslum@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
